@@ -1,0 +1,6 @@
+users:
+  - default
+  - name: vmadmin
+    sudo: ALL=(ALL) NOPASSWD:ALL
+    ssh_authorized_keys:
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCuAhKQ7smFoi+el3SnBpxPaybz/WoTNjBlvYgAFIweeihqD0riuHcVogSUHjQlEr+R2AjdHa2D7uEis+MjhVjfrIhBxgOQXUDcx7D5dc18Q1yiNMKxebK5vNWWQxK43v8xfJxlKkbbSaqpFLetWkok0AwWyo+IqNLSYhwVqy6csXOh4BI5bsQnyGwnLl53NQAiqqgVFsm910lHXp/eNUe0IFVCSNx/9+jaEhrRXsyVzV1w7hdfC3KtAC1AbfLZW1ElU/4mEZet0NAq0FrHWvwGRARL/p6eBSvLl/CCbEWgxtJCIb5Vnq264NMedEq+YGOguu2LI2RC14duLQT++Qwfi7I6pXaA7Ji1ARz02SZ7RYA+w4I/vNB/Ma/X0jeSBCjltKHXcY9cSqdXj/mvOGNwjrUJ4jEvHEJH5pYFTW0Oj0B2hL78afijHAUHkx067EXaGaPfV7fU4lW/UTSZ3bCvEy60KiU55hkhqblh1o4zXL66KEzYvMilWjFJLOVzmzk= iomeg@RAMTHINKPAD
